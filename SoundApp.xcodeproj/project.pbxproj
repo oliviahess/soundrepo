@@ -8,6 +8,15 @@
 
 /* Begin PBXBuildFile section */
 		F4C10DEB1F79AB1000082335 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C10DEA1F79AB1000082335 /* main.swift */; };
+		F4C10DF21F79AB2000082335 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C10DF11F79AB2000082335 /* AppDelegate.swift */; };
+		F4C10E001F79AB3300082335 /* PlayerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C10DF81F79AB3300082335 /* PlayerViewController.swift */; };
+		F4C10E011F79AB3300082335 /* SoundPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C10DF91F79AB3300082335 /* SoundPlayer.swift */; };
+		F4C10E021F79AB3300082335 /* SoundTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C10DFA1F79AB3300082335 /* SoundTableViewController.swift */; };
+		F4C10E031F79AB3300082335 /* SoundTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C10DFB1F79AB3300082335 /* SoundTableCell.swift */; };
+		F4C10E041F79AB3300082335 /* SoundLibrary.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C10DFC1F79AB3300082335 /* SoundLibrary.swift */; };
+		F4C10E051F79AB3300082335 /* CustomSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C10DFD1F79AB3300082335 /* CustomSlider.swift */; };
+		F4C10E061F79AB3300082335 /* ImageExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C10DFE1F79AB3300082335 /* ImageExtension.swift */; };
+		F4C10E071F79AB3300082335 /* TimerExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C10DFF1F79AB3300082335 /* TimerExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +34,19 @@
 /* Begin PBXFileReference section */
 		F4C10DE71F79AB1000082335 /* SoundApp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SoundApp; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4C10DEA1F79AB1000082335 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		F4C10DF11F79AB2000082335 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = "../../../Downloads/Archive (1)/Player App/AppDelegate.swift"; sourceTree = "<group>"; };
+		F4C10DF41F79AB2600082335 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = "../../../Downloads/Archive (1)/Player App/Base.lproj/Main.storyboard"; sourceTree = "<group>"; };
+		F4C10DF61F79AB2900082335 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = "../../../Downloads/Archive (1)/Player App/Base.lproj/LaunchScreen.storyboard"; sourceTree = "<group>"; };
+		F4C10DF71F79AB3300082335 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = "../../../Downloads/Archive (1)/Player App/Info.plist"; sourceTree = "<group>"; };
+		F4C10DF81F79AB3300082335 /* PlayerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PlayerViewController.swift; path = "../../../Downloads/Archive (1)/Player App/PlayerViewController.swift"; sourceTree = "<group>"; };
+		F4C10DF91F79AB3300082335 /* SoundPlayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SoundPlayer.swift; path = "../../../Downloads/Archive (1)/Player App/SoundPlayer.swift"; sourceTree = "<group>"; };
+		F4C10DFA1F79AB3300082335 /* SoundTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SoundTableViewController.swift; path = "../../../Downloads/Archive (1)/Player App/SoundTableViewController.swift"; sourceTree = "<group>"; };
+		F4C10DFB1F79AB3300082335 /* SoundTableCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SoundTableCell.swift; path = "../../../Downloads/Archive (1)/Player App/SoundTableCell.swift"; sourceTree = "<group>"; };
+		F4C10DFC1F79AB3300082335 /* SoundLibrary.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SoundLibrary.swift; path = "../../../Downloads/Archive (1)/Player App/SoundLibrary.swift"; sourceTree = "<group>"; };
+		F4C10DFD1F79AB3300082335 /* CustomSlider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CustomSlider.swift; path = "../../../Downloads/Archive (1)/Player App/CustomSlider.swift"; sourceTree = "<group>"; };
+		F4C10DFE1F79AB3300082335 /* ImageExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ImageExtension.swift; path = "../../../Downloads/Archive (1)/Player App/ImageExtension.swift"; sourceTree = "<group>"; };
+		F4C10DFF1F79AB3300082335 /* TimerExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TimerExtension.swift; path = "../../../Downloads/Archive (1)/Player App/TimerExtension.swift"; sourceTree = "<group>"; };
+		F4C10E081F79AB3900082335 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../../Downloads/Archive (1)/Player App/Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +80,19 @@
 			isa = PBXGroup;
 			children = (
 				F4C10DEA1F79AB1000082335 /* main.swift */,
+				F4C10DF11F79AB2000082335 /* AppDelegate.swift */,
+				F4C10DF31F79AB2600082335 /* Main.storyboard */,
+				F4C10DF51F79AB2900082335 /* LaunchScreen.storyboard */,
+				F4C10DF71F79AB3300082335 /* Info.plist */,
+				F4C10DF81F79AB3300082335 /* PlayerViewController.swift */,
+				F4C10DF91F79AB3300082335 /* SoundPlayer.swift */,
+				F4C10DFA1F79AB3300082335 /* SoundTableViewController.swift */,
+				F4C10DFB1F79AB3300082335 /* SoundTableCell.swift */,
+				F4C10DFC1F79AB3300082335 /* SoundLibrary.swift */,
+				F4C10DFD1F79AB3300082335 /* CustomSlider.swift */,
+				F4C10DFE1F79AB3300082335 /* ImageExtension.swift */,
+				F4C10DFF1F79AB3300082335 /* TimerExtension.swift */,
+				F4C10E081F79AB3900082335 /* Assets.xcassets */,
 			);
 			path = SoundApp;
 			sourceTree = "<group>";
@@ -104,6 +139,7 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = F4C10DDE1F79AB1000082335;
 			productRefGroup = F4C10DE81F79AB1000082335 /* Products */;
@@ -120,11 +156,39 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F4C10E041F79AB3300082335 /* SoundLibrary.swift in Sources */,
+				F4C10DF21F79AB2000082335 /* AppDelegate.swift in Sources */,
 				F4C10DEB1F79AB1000082335 /* main.swift in Sources */,
+				F4C10E051F79AB3300082335 /* CustomSlider.swift in Sources */,
+				F4C10E011F79AB3300082335 /* SoundPlayer.swift in Sources */,
+				F4C10E001F79AB3300082335 /* PlayerViewController.swift in Sources */,
+				F4C10E031F79AB3300082335 /* SoundTableCell.swift in Sources */,
+				F4C10E071F79AB3300082335 /* TimerExtension.swift in Sources */,
+				F4C10E061F79AB3300082335 /* ImageExtension.swift in Sources */,
+				F4C10E021F79AB3300082335 /* SoundTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		F4C10DF31F79AB2600082335 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F4C10DF41F79AB2600082335 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		F4C10DF51F79AB2900082335 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F4C10DF61F79AB2900082335 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		F4C10DEC1F79AB1000082335 /* Debug */ = {
